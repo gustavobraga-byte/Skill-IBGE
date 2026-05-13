@@ -1,6 +1,6 @@
-# 🇧🇷 IBGE BR — Claude Skill para APIs do IBGE
+# 🇧🇷 IBGE BR — Skill para APIs do IBGE
 
-Skill para o Claude (Anthropic) que permite consultar **todas as APIs oficiais do IBGE** (Instituto Brasileiro de Geografia e Estatística) — dados agregados (SIDRA), localidades, malhas geográficas, CNAE, nomes, notícias, indicadores de países, pesquisas e calendário.
+Skill para o AI  (claude, cursor,etc.) que permite consultar **todas as APIs oficiais do IBGE** (Instituto Brasileiro de Geografia e Estatística) — dados agregados (SIDRA), localidades, malhas geográficas, CNAE, nomes, notícias, indicadores de países, pesquisas e calendário.
 
 ## APIs Cobertas
 
