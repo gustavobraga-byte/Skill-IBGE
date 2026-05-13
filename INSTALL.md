@@ -33,6 +33,12 @@ Há **3 formas principais** de usar esta skill:
 | **Referência manual** | Use os comandos `curl` nos arquivos de referência para consultar as APIs diretamente |
 
 ---
+## Método Principal: Usando Skills
+
+```bash
+npx skills add gustavobraga-byte/Skill-IBGE
+```
+---
 
 ## Método 1: Claude Code / opencode
 
