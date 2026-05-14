@@ -2,7 +2,7 @@
 name: ibge-br
 description: Skill para consultar as APIs oficiais do IBGE (Instituto Brasileiro de Geografia e Estatística). Cobre dados agregados (SIDRA), localidades, malhas geográficas, CNAE, nomes, notícias, indicadores de países, pesquisas, e calendário. Use esta skill sempre que o usuário precisar de dados estatísticos, geográficos, econômicos, demográficos, ou sociais do Brasil.
 metadata:
-  skill-author: opencode
+  skill-author: GustavoBraga_UFV
 ---
 
 # IBGE - Instituto Brasileiro de Geografia e Estatística
